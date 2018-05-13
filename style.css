@@ -1,0 +1,98 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+h1 {
+  color: firebrick;
+  font-family: 'Pacifico', cursive;
+  margin: 0;
+  padding: 0;
+}
+p {
+  font-family: 'Merriweather', serif;
+font-size: 1;
+}
+li {
+  font-family: 'Merriweather', serif;
+}
+h2 {
+  color: firebrick;
+  font-family: 'Pacifico', cursive;
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  color: firebrick;
+  font-family: 'Pacifico', cursive;
+  margin: 0;
+  padding: 0;
+}
+body {
+margin: 0;
+padding: 0;
+background: peachpuff;
+}
+
+nav {
+  background: powderblue;
+  font-size: 20px;
+}
+header, section {
+  padding: 50px 10% 50px 10%
+}
+nav, footer {
+  padding: 20px 10% 20px 10%
+}
+header {
+  background: peachpuff;
+}
+
+section {
+  background: peachpuff;
+}
+
+footer {
+  background: powderblue;
+}
+
+a{
+  text-decoration: none;
+  color: firebrick;
+  display: inline-block;
+}
+a:hover {
+  color: indianred;
+  text-decoration: underline;
+}
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.instagram {
+  width: 35px;
+}
+.facebook {
+  width: 35px;
+}
+
+.picofme {
+  width: 300px;
+}
+
+span.name {
+  color: indigo;
+  font-size: 60px;
+}
+span.sign {
+  color: midnightblue;
+  font-size: 25px
+}
+
+img.picofme {
+  float: left;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  border-radius: 50%;
+}
