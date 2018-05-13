@@ -96,3 +96,9 @@ img.picofme {
   margin-bottom: 25px;
   border-radius: 50%;
 }
+
+
+section.skills, section.music {
+  clear: both;
+  background: powderblue;
+}
